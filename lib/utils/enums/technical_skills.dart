@@ -1,0 +1,16 @@
+enum TechnicalSkills {
+  dart,
+  oop,
+  flutter,
+  restApis,
+  firebase,
+  cleanArchitecture,
+  mvvm,
+  bloc,
+  solid,
+  git,
+  github,
+  postman,
+  figma,
+  responsiveDesign,
+}
