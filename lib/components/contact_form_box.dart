@@ -159,6 +159,9 @@ class _ContactFormBoxState extends State<ContactFormBox> {
     );
     if (_isSuccess.value == true) {
       _clearForm();
+      if (_autovalidateMode.value != AutovalidateMode.disabled) {
+        _autovalidateMode.value = AutovalidateMode.disabled;
+      }
     }
     Future.delayed(const Duration(seconds: 5), () {
       _isSuccess.value = null;
