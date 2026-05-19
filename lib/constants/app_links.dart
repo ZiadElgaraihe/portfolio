@@ -9,8 +9,8 @@ abstract class AppLinks {
   /// mailto:ziadelgaraihe301@gmail.com
   static const String email = "mailto:ziadelgaraihe301@gmail.com";
 
-  /// https://github.com/ZiadElgaraihe
-  static const String github = "https://github.com/ZiadElgaraihe";
+  /// https://github.com/ziad-elgaraihe
+  static const String github = "https://github.com/ziad-elgaraihe";
 
   /// https://play.google.com/store/apps/details?id=com.alt.kfratcomcustomer
   static const String kafaratGooglePlay =
@@ -19,13 +19,13 @@ abstract class AppLinks {
   /// https://kafaratplus.com
   static const String kafaratWebsite = "https://kafaratplus.com";
 
-  /// https://www.linkedin.com/in/ziad-elgaraihe-b346a6267
+  /// https://www.linkedin.com/in/ziad-elgaraihe
   static const String linkedin =
-      "https://www.linkedin.com/in/ziad-elgaraihe-b346a6267";
+      "https://www.linkedin.com/in/ziad-elgaraihe";
 
-  /// https://github.com/ZiadElgaraihe/rasid-app-showcase
+  /// https://github.com/ziad-elgaraihe/rasid-app-showcase
   static const String rasidGithub =
-      "https://github.com/ZiadElgaraihe/rasid-app-showcase";
+      "https://github.com/ziad-elgaraihe/rasid-app-showcase";
 
   /// https://wa.me/201211911941
   static const String whatsapp = "https://wa.me/201211911941";
