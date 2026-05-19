@@ -75,7 +75,7 @@ The project follows clean and maintainable structure principles with reusable wi
 Clone the project:
 
 ```bash
-git clone https://github.com/ZiadElgaraihe/portfolio.git
+git clone https://github.com/ziad-elgaraihe/portfolio.git
 ```
 
 Install dependencies:
@@ -102,8 +102,8 @@ flutter build web --release
 
 - Email: ziadelgaraihe301@email.com
 - Phone / WhatsApp: +201211911941
-- LinkedIn: https://www.linkedin.com/in/ziad-elgaraihe-b346a6267
-- GitHub: https://github.com/ZiadElgaraihe
+- LinkedIn: https://www.linkedin.com/in/ziad-elgaraihe
+- GitHub: https://github.com/ziad-elgaraihe
 
 ---
 
