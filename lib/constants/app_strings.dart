@@ -3,7 +3,7 @@ abstract class AppStrings {
   static const String contactEmail = "ziadelgaraihe301@gmail.com";
 
   /// Port Said, Egypt
-  static const String contactLocation = "Port Said, Egypt";
+  static const String contactLocation = "Cairo, Egypt";
 
   /// +201211911941
   static const String contactPhone = "+201211911941";
